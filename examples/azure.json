@@ -1,0 +1,1 @@
+{"value":[{"eventTimestamp":"2026-11-17T08:01:00Z","operationName":{"value":"Microsoft.Compute/virtualMachines/start/action"},"callerIpAddress":"192.0.2.12","status":{"value":"Succeeded"}}]}
